@@ -6,7 +6,7 @@ def scrape_and_upload_to_gcs_8():
     from datetime import datetime
 
     # Configuration
-    API_KEY = 'AIzaSyC8vmnrXHwpAAX2Z3RU3EbfsUPt3r9fUDQ'  # Replace with your Google API Key
+    API_KEY = 'API KEY'  # Replace with your Google API Key
     CALENDAR_ID = 'ctfoodbank.events@gmail.com'  # Replace with your public calendar ID
 
     # Create the Google Calendar service object
