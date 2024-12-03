@@ -1,4 +1,4 @@
-# Autism Support Resource App
+# Parent Support Resource App
 
 This app is designed to provide accessible resources and support related to autism. It features a simple, user-friendly interface that allows individuals with autism, their families, and caregivers to easily find valuable information such as local events, food banks, and autism-related services.
 
