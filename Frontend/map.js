@@ -52,7 +52,8 @@ function SearchControl({ onSearch }) {
   useEffect(() => {
     const loadGoogleMapsScript = () => {
       const script = document.createElement('script');
-      script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCjS8Ag-PizmFasLdzpl4vxbikYU17Isdg&libraries=places`;
+      // ADD API KEY
+      script.src = `https://maps.googleapis.com/maps/api/js?key=APIKEY`;
       script.async = true;
       script.defer = true;
       script.onload = initializeAutocomplete;
