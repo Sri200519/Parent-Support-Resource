@@ -78,7 +78,7 @@ This app is designed to provide accessible resources and support related to auti
   
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -90,9 +90,6 @@ We welcome contributions to improve the Autism Support Resource app! If you'd li
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-### Code of Conduct
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to this project.
 
 ## Roadmap
 
@@ -105,7 +102,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to thi
 
 ## Support
 
-For questions or support, please reach out via GitHub Issues or email us at [support@example.com](mailto:support@example.com).
+For questions or support, please reach out via GitHub Issues or email us at [skopparapu19@gmail.com](mailto:skopparapu19@gmail.com).
 
 ## Acknowledgments
 
